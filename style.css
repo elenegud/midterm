@@ -732,7 +732,7 @@ footer {
 
   .purple-img img,
  .additional-img img {
-        width: 100%; /* Set the width to 100% to make the images responsive */
+        width: 100%; 
         max-width: 300px;
         height: auto;
          }
@@ -947,7 +947,7 @@ p {
     max-width: 50%;
 }
 .logos img:nth-child(1) {
-    display: none; /* Hide the first image in responsive version */
+    display: none; 
 }
 
 .logos img:nth-child(2) {
