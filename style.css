@@ -196,7 +196,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     gap: 4px;
-    padding-left: 160px;
+    
     
 }
 
@@ -359,8 +359,7 @@ p {
     display: flex;
     flex-wrap: wrap;
     gap: 110px;
-    padding-left: 383px;
-    padding-right: 383px;   
+    justify-content: center  
 }
 .quantities > div {
     display: flex;
